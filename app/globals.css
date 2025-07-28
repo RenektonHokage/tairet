@@ -1,9 +1,7 @@
 @import "tailwindcss/preflight";
 @import "tailwindcss/utilities";
 
-/* Estilos globales personalizados */
-body {
-  font-family: sans-serif;
-  background-color: #0d0d0d;
-  color: #fff;
+html, body {
+  background-color: black;
+  color: white;
 }
